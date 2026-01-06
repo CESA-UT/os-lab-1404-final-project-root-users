@@ -1,11 +1,11 @@
-Source: mytool
+Source: root-monitor
 Section: utils
 Priority: optional
-Maintainer: Team Name <team-email@example.com>
+Maintainer: Root users <m.gh138319@gmail.com>
 Build-Depends: debhelper-compat (= 13)
 Standards-Version: 4.6.2
 
-Package: mytool
+Package: root-monitor
 Architecture: all
 Depends: ${misc:Depends}
 Description: Example Bash tool packaged into a .deb
